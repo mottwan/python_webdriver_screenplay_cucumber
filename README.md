@@ -97,15 +97,6 @@ The Screenplay Pattern is an advanced and extensible design pattern for writing 
 
 This will generate an HTML report named `report.html` in the root directory.
 
-## Screenplay Pattern in current project
-
-The Screenplay pattern is a design pattern that improves test maintainability and readability by separating concerns. The pattern consists of the following components:
-
-- Actor: Represents the user interacting with the system.
-- Ability: Represents a user's ability, e.g., browsing the web.
-- Task: Represents a user's task, e.g., logging in.
-- Question: Represents a question the user asks about the system's state, e.g., is the user logged in?
-
 ## Adding New Tests
 
 1. Create a new feature file in the `features` directory using Gherkin syntax.
