@@ -35,19 +35,19 @@ The Screenplay Pattern is an advanced and extensible design pattern for writing 
     ├── features/
     │   └── login.feature
     ├── step_definitions/
-    │   ├── init.py
+    │   ├── __init__.py
     │   └── test_login.py
     ├── abilities/
-    │   ├── init.py
+    │   ├── __init__.py
     │   └── browse_the_web.py
     ├── actors/
-    │   ├── init.py
+    │   ├── __init__.py
     │   └── actor.py
     ├── questions/
-    │   ├── init.py
+    │   ├── __init__.py
     │   └── is_user_logged_in.py
     ├── tasks/
-    │   ├── init.py
+    │   ├── __init__.py
     │   ├── login.py
     │   └── navigate_to_login.py
     ├── conftest.py
