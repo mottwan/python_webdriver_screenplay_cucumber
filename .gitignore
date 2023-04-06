@@ -1,0 +1,19 @@
+.env
+*.pyc
+*.pyo
+__pycache__/
+venv/
+.idea/
+.code/
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+# Compiled C++ files
+*.out
