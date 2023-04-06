@@ -31,7 +31,7 @@ The Screenplay Pattern is an advanced and extensible design pattern for writing 
   ```commandline
     webdriver_screenplay_cucumber/
     ├── venv/
-    ├── ...
+    │   └── ...
     ├── features/
     │   └── login.feature
     ├── step_definitions/
